@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="onboarding_screen_title_text_spacing">32dp</dimen>
+    <dimen name="onboarding_screen_vertical_padding">48dp</dimen>
+    <dimen name="onboarding_screen_horizontal_padding">24dp</dimen>
+    <dimen name="list_screen_padding">12dp</dimen>
+
+    <dimen name="button_height">48dp</dimen>
+
+    <dimen name="card_corner_shape">8dp</dimen>
+    <dimen name="card_padding">12dp</dimen>
+    <dimen name="card_info_vertical_spacing">4dp</dimen>
+    <dimen name="card_info_top_padding">8dp</dimen>
+    <dimen name="card_info_start_padding">8dp</dimen>
+    <dimen name="card_border_stroke">2dp</dimen>
+
+    <dimen name="list_items_spacing">12dp</dimen>
+
+    <dimen name="info_value_spacing">4dp</dimen>
+
+    <dimen name="team_image_size">48dp</dimen>
+    <dimen name="team_image_name_spacing">10dp</dimen>
+</resources>

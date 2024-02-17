@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Basics Codelab</string>
+    <string name="show_less_btn">Show less</string>
+    <string name="show_more_btn">Show more</string>
+    <string name="continue_btn">Continue</string>
+    <string name="onboarding_screen_title">Compose Basics</string>
+    <string name="onboarding_screen_goal_description">This simple app aims to apply some of the basic Compose concepts
+        learned under the scope of a Basics Codelab by Google.</string>
+    <string name="onboarding_screen_theme_description">The theme is the portuguese football league and
+        the next screen shows a list of teams in the first league.</string>
+
+    <string name="city_info">City</string>
+    <string name="city_slbenfica">Lisboa</string>
+    <string name="city_sportingsc">Lisboa</string>
+    <string name="city_fcporto">Porto</string>
+    <string name="city_vitoriasc">Guimarães</string>
+    <string name="city_scbraga">Braga</string>
+    <string name="city_fcarouca">Arouca</string>
+    <string name="city_fcfamalicao">Vila Nova de Famalicão</string>
+    <string name="city_scfarence">Faro</string>
+    <string name="city_fcboavista">Porto</string>
+    <string name="city_gilvicentefc">Barcelos</string>
+    <string name="city_portimonensesc">Portimão</string>
+    <string name="city_moreirensefc">Guimarães</string>
+    <string name="city_gdestoril">Estoril</string>
+    <string name="city_amadora">Amadora</string>
+    <string name="city_rioavefc">Vila do Conde</string>
+    <string name="city_casapia">Lisboa</string>
+    <string name="city_gdchaves">Chaves</string>
+    <string name="city_fcvizela">Vizela</string>
+
+
+    <string name="name_slbenfica">Benfica</string>
+    <string name="name_sportingsc">Sporting</string>
+    <string name="name_fcporto">FC Porto</string>
+    <string name="name_vitoriasc">Vitória</string>
+    <string name="name_scbraga">Braga</string>
+    <string name="name_fcarouca">Arouca</string>
+    <string name="name_fcfamalicao">Famalicão</string>
+    <string name="name_scfarence">Farense</string>
+    <string name="name_fcboavista">Boavista</string>
+    <string name="name_gilvicentefc">Gil Vicente</string>
+    <string name="name_portimonensesc">Portimonense</string>
+    <string name="name_moreirensefc">Moreirense</string>
+    <string name="name_gdestoril">Estoril</string>
+    <string name="name_amadora">Estrela da Amadora</string>
+    <string name="name_rioavefc">Rio Ave</string>
+    <string name="name_casapia">Casa Pia</string>
+    <string name="name_gdchaves">Chaves</string>
+    <string name="name_fcvizela">Vizela</string>
+
+    <string name="year_info">Year</string>
+    <string name="year_slbenfica">1904</string>
+    <string name="year_sportingsc">1906</string>
+    <string name="year_fcporto">1893</string>
+    <string name="year_vitoriasc">1922</string>
+    <string name="year_scbraga">1921</string>
+    <string name="year_fcarouca">1952</string>
+    <string name="year_fcfamalicao">1931</string>
+    <string name="year_scfarence">1910</string>
+    <string name="year_fcboavista">1903</string>
+    <string name="year_gilvicentefc">1924</string>
+    <string name="year_portimonensesc">1914</string>
+    <string name="year_moreirensefc">1938</string>
+    <string name="year_gdestoril">1939</string>
+    <string name="year_amadora">2020</string>
+    <string name="year_rioavefc">1939</string>
+    <string name="year_casapia">1920</string>
+    <string name="year_gdchaves">1949</string>
+    <string name="year_fcvizela">1939</string>
+
+    <string name="stadium_info">Stadium</string>
+    <string name="stadium_slbenfica">Estádio da Luz</string>
+    <string name="stadium_sportingsc">Estádio José Alvalade</string>
+    <string name="stadium_fcporto">Estádio do Dragão</string>
+    <string name="stadium_vitoriasc">Estádio D. Afonso Henriques</string>
+    <string name="stadium_scbraga">Estádio Municipal de Braga</string>
+    <string name="stadium_fcarouca">Estádio Municipal de Arouca</string>
+    <string name="stadium_fcfamalicao">Estádio Municipal 22 de Junho</string>
+    <string name="stadium_scfarence">Estádio São Luís</string>
+    <string name="stadium_fcboavista">Estádio do Bessa Sec. XXI</string>
+    <string name="stadium_gilvicentefc">Estádio Cidade de Barcelos</string>
+    <string name="stadium_portimonensesc">Estádio Municipal de Portimão</string>
+    <string name="stadium_moreirensefc">Estádio Comendador Joaquim de Almeida Freitas</string>
+    <string name="stadium_gdestoril">Estádio António Coimbra da Mota</string>
+    <string name="stadium_amadora">Estádio José Gomes</string>
+    <string name="stadium_rioavefc">Estádio do Rio Ave FC</string>
+    <string name="stadium_casapia">Estádio Pina Manique</string>
+    <string name="stadium_gdchaves">Estádio Municipal Engenheiro Manuel Branco Teixeira</string>
+    <string name="stadium_fcvizela">Estádio do FC Vizela</string>
+
+
+</resources>
